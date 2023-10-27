@@ -1,0 +1,14 @@
+Enviar datos a Thingsboard:
+curl -v -X POST http://demo.thingsboard.io/api/v1/yFLwocekzsRJQuEEmePg/telemetry --header Content-Type:application/json --data "{temperature:25}"
+
+Acceso a github:
+https://github.com/RobotronicaS/TFD-UCU
+
+Introducción a Tkinter:
+https://recursospython.com/guias-y-manuales/introduccion-a-tkinter/
+
+Clase grabada 1:
+https://drive.google.com/file/d/1xscy-Wy6UieAkvuJov8APTKL00b-zJVU/view?usp=sharing
+
+Clase grabada 2:
+https://drive.google.com/file/d/1H9ST4voSf-XCCc-gfv1kLU-sW8fgm0Mv/view?usp=sharing
